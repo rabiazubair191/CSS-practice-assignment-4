@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+}
+
+.navbar {
+    background-color: #281a98;
+    width: 100vw;
+    height: 80px;
+    /* display: inline; */
+    /* overflow-y: hidden; */
+}
+
+.logo-name {
+     /* display: inline; */
+    color: white;
+    font-size: 33px;
+position: relative;
+left: 150px;
+top: 15px;
+font-family: sans-serif;
+font-weight: bold;
+}
+
+.nav-links {
+    /* display: inline; */
+    color: white;
+    font-size: 19px;
+    /* margin-left: 700px;
+    margin-top: 10px; */
+    position: relative;
+    left: 850px;
+    bottom: 15px;
+    word-spacing: 20px;
+}
+
+.music-img {
+    width: 100vw;
+}
