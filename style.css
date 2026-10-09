@@ -203,8 +203,8 @@
 }
 
 .card-img {
-   position: relative;
-   bottom: 290px;
+    position: relative;
+    bottom: 290px;
 }
 
 .sub-heading4 {
@@ -217,7 +217,7 @@
 }
 
 .description4 {
-     position: relative;
+    position: relative;
     bottom: 570px;
     left: 550px;
     font-size: 16px;
@@ -238,7 +238,6 @@
     position: relative;
     bottom: 520px;
     left: 550px;
-    /* height: 10px; */
     width: 550px;
 }
 
@@ -260,4 +259,67 @@
     background-color: #22166a;
     position: relative;
     bottom: 350px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.navlinks1 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+    line-height: 30px;
+    position: relative;
+    top: 40px;
+}
+
+#nav-heading1 {
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.navlinks2 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+    line-height: 30px;
+    position: relative;
+    top: 40px;
+}
+
+#nav-heading2 {
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.navlinks3 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+    line-height: 30px;
+    position: relative;
+    top: 40px;
+}
+
+#nav-heading3 {
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.navlinks4 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+    line-height: 30px;
+    position: relative;
+    top: 40px;
+}
+
+#nav-heading4 {
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: bold;
 }
